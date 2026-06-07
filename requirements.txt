@@ -2,3 +2,5 @@ fastapi
 uvicorn
 mercadopago
 pydantic
+python-multipart
+requests
